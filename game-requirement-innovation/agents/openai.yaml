@@ -1,0 +1,4 @@
+interface:
+  display_name: "游戏需求理解与创新"
+  short_description: "面向游戏立项期执行需求澄清与创新玩法发散收敛决策输出"
+  default_prompt: "请按KCOS流程完成游戏立项期需求理解与创新设计：先对齐目标边界验收，再发散创意并收敛出基线方案、创新方案和验证计划。"

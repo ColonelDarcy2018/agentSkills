@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile RPA Script Dev"
+  short_description: "Develop and debug Android mobile RPA scripts"
+  default_prompt: "Help me write, run, and debug a mobile RPA script."
